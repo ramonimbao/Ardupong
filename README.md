@@ -1,6 +1,6 @@
------------------------
- 2P Tetris for Arduino
------------------------
+---------------------
+ 2P Pong for Arduino
+---------------------
 
 Connect two potentiometers to the Arduino using:
 Left pin: 5V
